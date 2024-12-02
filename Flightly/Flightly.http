@@ -1,0 +1,6 @@
+@Flightly_HostAddress = http://localhost:5007
+
+GET {{Flightly_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
